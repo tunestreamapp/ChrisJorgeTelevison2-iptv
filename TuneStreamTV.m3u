@@ -1197,16 +1197,16 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/2/galavision-logo-png_seeklogo-302173.png" group-title="USA LOCAL LATINOS",Galavisión East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5951.png" group-title="USA LOCAL LATINOS",Galavisión East
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/2/galavision-logo-png_seeklogo-302173.png" group-title="USA LOCAL LATINOS",Galavisión West
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5951.png" group-title="USA LOCAL LATINOS",Galavisión West
 https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/3/tudn-logo-png_seeklogo-368749.png" group-title="USA LOCAL LATINOS",TUDN USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5952.webp" group-title="USA LOCAL LATINOS",TUDN USA
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 
