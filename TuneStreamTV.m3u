@@ -1,4 +1,9 @@
 #EXTINF
+# -------- Eventos Darios:09/07/2026 --------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5953.jpeg" group-title="Eventos Darios:09/07/2026", Cagliari vs Lecce|12:30pm
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5954.jpeg" group-title="Eventos Darios:09/07/2026",Udinese vs Lazio|2:45pm
 
 # -------- Eventos Darios:09/06/2026 --------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5943.webp" group-title="Eventos Darios:09/06/2026", Sunday Main Event WWE
@@ -156,13 +161,13 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/st
 
 # -------- PEACOCK|EVENTS --------  
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|Español  
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
-
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 1 
 http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11376
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 2 
-https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/X1GOYTFD/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 1 Cagliari vs Lecce|12:30pm
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11376
+
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 2 Udinese vs Lazio|2:45pm
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11376
 
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 3 
 https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/X1GOYTFD/hls/master.m3u8
