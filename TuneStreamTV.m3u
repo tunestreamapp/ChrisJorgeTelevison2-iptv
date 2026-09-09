@@ -3828,11 +3828,18 @@ http://181.209.105.115:2525/play/fx/index.m3u8
 
 
 # -------- MOVIES --------
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKNwlbJjEzANzADLcCwSODW8XUCzJf4OvWQ&s" group-title="MOVIES", Scream 7
+##EXTM3U
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5964.webp",Spider-Man: Brand New Day (2026)
+http://planettvweb.com:8091/movie/JudithC/MDun5768d/159670.mkv
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5965.jpeg",Una noche al año (2026)
+http://planettvweb.com:8091/movie/JudithC/MDun5768d/160781.mkv
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tunestreamapp/Images-for-events-/refs/heads/main/IMG_5963.jpeg",Scream 7 (2026)
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yUgV3Nuu/hls/media-1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQew4_5rXQ_RHmC7KyfPaBnES0p3mG_zuIzMA&s" group-title="MOVIES", The Super Mario Galaxy Movie
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/2l0tlEGz/hls/media-1/stream.m3u8
+
 
 
 # -------- SERIES --------
